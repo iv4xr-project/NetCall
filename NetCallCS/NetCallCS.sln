@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCallCS", "NetCallCS\NetCallCS.csproj", "{4E0EAAAF-1F67-427D-A374-172666EC8342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCallCSExample", "NetCallCSExample\NetCallCSExample.csproj", "{74FC8B89-355E-42D5-89EE-A36C3651A07E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0EAAAF-1F67-427D-A374-172666EC8342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0EAAAF-1F67-427D-A374-172666EC8342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0EAAAF-1F67-427D-A374-172666EC8342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0EAAAF-1F67-427D-A374-172666EC8342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74FC8B89-355E-42D5-89EE-A36C3651A07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FC8B89-355E-42D5-89EE-A36C3651A07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FC8B89-355E-42D5-89EE-A36C3651A07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FC8B89-355E-42D5-89EE-A36C3651A07E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04575F1D-573D-4D34-B97B-DE1EE43674AA}
+	EndGlobalSection
+EndGlobal

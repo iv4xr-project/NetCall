@@ -1,0 +1,1 @@
+mvn compile exec:java -Dexec.mainClass="eu.iv4xr.netcallj.Example"
